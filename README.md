@@ -21,9 +21,10 @@ Yeoman is a scaffolding tool for modern web apps.
 Similar to the generators included in Rails, Yeoman helps you avoid writing boilerplate code by creating it for you.
 
 The Yeoman workflow consists of three tools:
-1. Yo, the **command line tool** which is used to run generators to scaffold a new web app
-2. a **build system** (such as Gulp or Grunt) which is used build, preview and test your project
-3. a **package manager** used for dependency management. NPM and Bower are popular.
+
+1.  Yo, the **command line tool** which is used to run generators to scaffold a new web app
+2.  a **build system** (such as Gulp or Grunt) which is used build, preview and test your project
+3.  a **package manager** used for dependency management. NPM and Bower are popular.
 
 ## Demo: Generating a Web App
 
