@@ -57,8 +57,7 @@ creating a new project.
 ## Additional Resources
 
 -   [Yeoman Documentation](http://yeoman.io)
--   [Creating a Generator Guide](http://yeoman.io/authoring/)
-    section.
+-   [Writing Your Own Yeoman Generator](http://yeoman.io/authoring/)
 
 ## [License](LICENSE)
 
